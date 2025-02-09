@@ -5,7 +5,7 @@ class Enemy {
     float x;
     float y;
     
-    //fTODO
+   
     Enemy(float x, float y, float HIGHT, float WIDTH) {
         
         this.x = x;

@@ -15,7 +15,7 @@ class Bullets {
         
     }
     
-    //fTODO
+   
     
     void objectDraw(float bulletX, float bulletY) {
         rect(bulletX,bulletY, 20, 20);

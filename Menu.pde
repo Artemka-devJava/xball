@@ -7,8 +7,7 @@ class Menu {
         this.statusGame = false;
     }
     
-    //fTODO
-    // TODO
+   
     boolean  getStatusGame() {
         return this.statusGame;
     }
@@ -16,5 +15,5 @@ class Menu {
     boolean  SetStatusGame() {
         return this.statusGame;
     }
-    // TODO
+    
 }

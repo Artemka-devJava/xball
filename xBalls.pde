@@ -6,8 +6,6 @@ AudioPlayer playerMp3;
 int statusGame = 0;
 Menu menu;
 //Enemy enemy1;
-//fTODO
-//TODO
 Enemy enemy2;
 Enemy enemy3;
 Enemy enemy4;

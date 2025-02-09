@@ -23,7 +23,7 @@ class Player implements GameItems {
     void uploadimage() {
         img = loadImage("playerBackground.jpg");
     }
-    //fTODO
+    
     void objectDraw() {
         rect(x, y, hight, with);
         fill(23, 23,23);
