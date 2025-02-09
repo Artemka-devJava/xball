@@ -18,9 +18,6 @@ Enemy enemy102;
 Enemy enemy112;
 Bullets bullet;
 
-
-
-
 void setup() {
     size(640, 480);
     frameRate(30);

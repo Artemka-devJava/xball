@@ -13,7 +13,7 @@ class Enemy {
         this.HIGHT = HIGHT;
         this.WIDTH = WIDTH;
     }
-    
+    // TODO
     void drawItem() {
         rect(x, y, HIGHT, WIDTH);
         
