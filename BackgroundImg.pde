@@ -9,7 +9,7 @@ class BackgroundImg {
   }
 // TODO
   void drawBackgroundImgPrew() {
-
+//fTODO
     image(img2, 0, 0);
     textSize(30);
     fill(0, 408, 612);

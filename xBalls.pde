@@ -6,6 +6,7 @@ AudioPlayer playerMp3;
 int statusGame = 0;
 Menu menu;
 //Enemy enemy1;
+//fTODO
 Enemy enemy2;
 Enemy enemy3;
 Enemy enemy4;
@@ -27,7 +28,7 @@ void setup() {
     
     player = new Player(270, 450, 100, 20);
     backgroundImg = new BackgroundImg();
-    
+    //fTODO
     //enemy1 = new Enemy(10, 20, 80, 20);
     enemy2 = new Enemy(100, 20, 80, 20);
     enemy3 = new Enemy(190, 20, 80, 20);
